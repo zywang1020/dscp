@@ -18,7 +18,7 @@ This project uses course data exported from the university course system. Users 
 
 1. Click **Open in Google Colab**.
 2. Run the notebook cells in order.
-3. Upload the course data file `export.xls`.
+3. Upload the course data file `export.xls`.(You may get the imformation from the academic affairs office website)
 4. Search courses by keyword.
 5. Enter selected course codes.
 6. Enter report deadlines and exam dates for each course.
