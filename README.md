@@ -1,6 +1,8 @@
 # 114-2 DSCP Final Project
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zywang1020/dscp/blob/main/114dscp_finalproject.ipynb)
+## Open the Project
+
+[Open in Google Colab](https://colab.research.google.com/drive/1wSxT78nm-w5goYy717wN29pm3L5tJ7KC)
 
 ## Project Title
 
@@ -14,7 +16,7 @@ This project uses course data exported from the university course system. Users 
 
 ## How to Run
 
-1. Click the **Open in Colab** button above.
+1. Click **Open in Google Colab**.
 2. Run the notebook cells in order.
 3. Upload the course data file `export.xls`.
 4. Search courses by keyword.
@@ -51,4 +53,4 @@ This project uses course data exported from the university course system. Users 
 
 ## Short Reflection
 
-This project helped me practice reading Excel data, cleaning data with Pandas, parsing course time, creating visualizations, and designing a simple rule-based planner. Although it is only a prototype, it shows how data science skills can be used to support student time management.
+This project helped me practice reading Excel data, cleaning data with Pandas, parsing course time, creating visualizations, and designing a simple rule-based planner. Although it is only a prototype, it shows how data science skills can be used to support student time management.To sum up, by doing rhis project I learned a lot skills of coding.
