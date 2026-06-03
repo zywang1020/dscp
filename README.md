@@ -6,7 +6,7 @@
 
 ## Project Title
 
-A Course-based Daily Schedule Planner for College Students
+A Course-based Daily Schedule Planner for NTNU Students
 
 ## Project Motivation
 
@@ -51,6 +51,6 @@ This project uses course data exported from the university course system. Users 
 - `daily_schedule_output.csv`: generated daily schedule
 - `my_course_schedule.csv`: selected course schedule
 
-## Short Reflection
+## My Personal Short Reflection
 
 This project helped me practice reading Excel data, cleaning data with Pandas, parsing course time, creating visualizations, and designing a simple rule-based planner. Although it is only a prototype, it shows how data science skills can be used to support student time management.To sum up, by doing rhis project I learned a lot skills of coding.
